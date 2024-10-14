@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:client": "node client.js",
-    "start:server": "node server.js"
+    "start:client": "node src/client.js",
+    "start:server": "node src/server.js"
   },
   "keywords": [],
   "author": "",
